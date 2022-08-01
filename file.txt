@@ -1,5 +1,9 @@
 <html>
 <body>
+<<<<<<< HEAD
 <h2>Hello Hi devops World!</h2>
+=======
+<h2>Helloi Hi World!</h2>
+>>>>>>> dev
 </body>
 </html>
